@@ -1,0 +1,14 @@
+.panel-body{
+    margin-bottom: 25px;
+    overflow-y: scroll;
+    height: 250px;
+    ul {
+        padding-left:0px;
+        li {
+            list-style: none;
+            span {
+                font-weight: bold;
+            }
+        }
+    }
+}
